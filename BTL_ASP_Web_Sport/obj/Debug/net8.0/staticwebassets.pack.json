@@ -1,0 +1,1077 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CAO TOAN\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\CAO TOAN\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BTL_ASP_Web_Sport.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BTL_ASP_Web_Sport.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\accounts\\123.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\accounts\\123.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\accounts\\images (1).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\accounts\\images (1).jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\accounts\\images.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\accounts\\images.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\accounts\\pngtree-user-avatar-boy-png-image_4693645.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\accounts\\pngtree-user-avatar-boy-png-image_4693645.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\accounts\\pngtree-user-vector-avatar-png-image_4830521.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\accounts\\pngtree-user-vector-avatar-png-image_4830521.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\10-thuong-hieu-thoi-trang-tre-em-noi-tieng-tai-thumb-1-1200x628.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\10-thuong-hieu-thoi-trang-tre-em-noi-tieng-tai-thumb-1-1200x628.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\20230910_lsmarw8t_69724a80af68429592181edc7f854372.webp",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\20230910_lsmarw8t_69724a80af68429592181edc7f854372.webp"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\942f8d8bde6b4623b859650cdb422067.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\942f8d8bde6b4623b859650cdb422067.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\ao-thun-cho-be-trai-2-6-tuoi-c1533-1.webp",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\ao-thun-cho-be-trai-2-6-tuoi-c1533-1.webp"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\images (8).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\images (8).jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\kinh-boi-tre-em.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\kinh-boi-tre-em.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\nhung-loi-ich-khi-cho-tre-em-deo-kinh-mat-1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\nhung-loi-ich-khi-cho-tre-em-deo-kinh-mat-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\z5447273023520_940bff654d2d459b087be09d80e9d1e9.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\z5447273023520_940bff654d2d459b087be09d80e9d1e9.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\z5447273892457_cb6206492c29b460ff8c444abb286be5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\z5447273892457_cb6206492c29b460ff8c444abb286be5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\z5447275252087_2879e8597c9fd3d6cc2ec6996ffc624c.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\z5447275252087_2879e8597c9fd3d6cc2ec6996ffc624c.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\blogs\\z5447276898448_6b52af016f2eaa5e867c1600289555cf.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\blogs\\z5447276898448_6b52af016f2eaa5e867c1600289555cf.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\189f185c-f6c7-48d5-93e9-bdd8d9371040.webp",
+      "PackagePath": "staticwebassets\\Uploads\\products\\189f185c-f6c7-48d5-93e9-bdd8d9371040.webp"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\1d293ae114711673c3b9d2feafa24720.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\1d293ae114711673c3b9d2feafa24720.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\2_c6c4e1a2c67d42d3bb6d8a0b86ace1cc_1024x1024.webp",
+      "PackagePath": "staticwebassets\\Uploads\\products\\2_c6c4e1a2c67d42d3bb6d8a0b86ace1cc_1024x1024.webp"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\5b59f26e793c57c549704901ebf9a5c1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\5b59f26e793c57c549704901ebf9a5c1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\9b3e6981479ca3c2fa8d.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\9b3e6981479ca3c2fa8d.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\OIP (10).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\OIP (10).jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\OIP.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\OIP.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\UV-Protection-Clothing.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\UV-Protection-Clothing.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\ao-so-mi-nam-tay-dai-8.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\ao-so-mi-nam-tay-dai-8.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\ao-thun-cho-be-trai-2-6-tuoi-c1533-1.webp",
+      "PackagePath": "staticwebassets\\Uploads\\products\\ao-thun-cho-be-trai-2-6-tuoi-c1533-1.webp"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\ao-thun-nam-the-thao-breli-bas2338-bl-01.webp",
+      "PackagePath": "staticwebassets\\Uploads\\products\\ao-thun-nam-the-thao-breli-bas2338-bl-01.webp"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\b3d5ddbba67efe1ef4b83bdd212821a3.jpg_720x720q80.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\b3d5ddbba67efe1ef4b83bdd212821a3.jpg_720x720q80.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\balodulich-size-lon_2616de5981384d15bd500fdd5ee7cc64_1024x1024.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\balodulich-size-lon_2616de5981384d15bd500fdd5ee7cc64_1024x1024.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\do-the-thao-tre-em-tai-sora-kids.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\do-the-thao-tre-em-tai-sora-kids.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\dong-ho-bam-gio-the-thao-pc90.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\dong-ho-bam-gio-the-thao-pc90.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\hinh-anh-gay-golf-pgm-1.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\hinh-anh-gay-golf-pgm-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\images (4).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\images (4).jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\images (6).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\images (6).jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\images (7).jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\images (7).jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\images.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\images.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\pngtree-colorful-sport-shirt-mockup-front-and-back-view-generative-ai-png-image_11520387.png",
+      "PackagePath": "staticwebassets\\Uploads\\products\\pngtree-colorful-sport-shirt-mockup-front-and-back-view-generative-ai-png-image_11520387.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\vn-11134207-7r98o-lx4upoik78ih03.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\vn-11134207-7r98o-lx4upoik78ih03.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\Uploads\\products\\Đồng-hồ-thể-thao-nữ-đẹp.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\products\\Đồng-hồ-thể-thao-nữ-đẹp.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\css\\my_style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\my_style.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\AR.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\AR.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\AS.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\AS.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\BB.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BB.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\BD.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BD.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\BE.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BE.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\BF.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BF.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\BG.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BG.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\BH.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\BH.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\CH.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\CH.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\DE.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\DE.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\ES.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ES.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\FR.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FR.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\IT.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IT.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\US.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\US.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\_default-product.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\_default-product.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\_default-user.png",
+      "PackagePath": "staticwebassets\\assets\\images\\_default-user.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\add-image-icon.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\add-image-icon.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\6.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\7.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\8.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\avatars\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\avatars\\9.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\abstract1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\abstract1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\abstract2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\abstract2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\abstract3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\abstract3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\abstract4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\abstract4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\abstract5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\abstract5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\city1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\city1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\city2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\city2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\city3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\city3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\city4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\city4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\dropdown-header\\city5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\dropdown-header\\city5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\icons.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\icons.gif"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\logo-inverse.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-inverse.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\abstract1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\abstract1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\abstract2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\abstract2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\abstract3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\abstract3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\abstract4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\abstract4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\abstract5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\abstract5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\city1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\city1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\city2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\city2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\city3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\city3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\city4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\city4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\images\\sidebar\\city5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sidebar\\city5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\scripts\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\scripts\\main.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\main.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\assets\\scripts\\my_script.js",
+      "PackagePath": "staticwebassets\\assets\\scripts\\my_script.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\user\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\user\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\user\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\user\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\style.css",
+      "PackagePath": "staticwebassets\\user\\css\\style.css"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\user\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\user\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\user\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\user\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\user\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\user\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\about-us.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\about-us.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\team-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\team-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\team-3.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\team-4.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\testimonial-author.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\testimonial-author.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\about\\testimonial-pic.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\about\\testimonial-pic.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\details\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\details\\blog-author.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\blog\\details\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\blog\\details\\blog-details.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\user\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\user\\img\\footer-logo.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\hero\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\hero\\hero-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\icon\\calendar.png",
+      "PackagePath": "staticwebassets\\user\\img\\icon\\calendar.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\icon\\cart.png",
+      "PackagePath": "staticwebassets\\user\\img\\icon\\cart.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\icon\\compare.png",
+      "PackagePath": "staticwebassets\\user\\img\\icon\\compare.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\icon\\heart.png",
+      "PackagePath": "staticwebassets\\user\\img\\icon\\heart.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\icon\\search.png",
+      "PackagePath": "staticwebassets\\user\\img\\icon\\search.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\instagram\\instagram-6.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\instagram\\instagram-6.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\logo.png",
+      "PackagePath": "staticwebassets\\user\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\payment.png",
+      "PackagePath": "staticwebassets\\user\\img\\payment.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product-sale.png",
+      "PackagePath": "staticwebassets\\user\\img\\product-sale.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-13.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-13.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-14.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-14.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\details-payment.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\details-payment.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\product-big-2.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\product-big-2.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\product-big-3.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\product-big-3.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\product-big-4.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\product-big-4.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\product-big.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\product-big.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\thumb-1.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\thumb-1.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\thumb-2.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\thumb-2.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\thumb-3.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\thumb-3.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shop-details\\thumb-4.png",
+      "PackagePath": "staticwebassets\\user\\img\\shop-details\\thumb-4.png"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shopping-cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\shopping-cart\\cart-1.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shopping-cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\shopping-cart\\cart-2.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shopping-cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\shopping-cart\\cart-3.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\img\\shopping-cart\\cart-4.jpg",
+      "PackagePath": "staticwebassets\\user\\img\\shopping-cart\\cart-4.jpg"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\user\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\main.js",
+      "PackagePath": "staticwebassets\\user\\js\\main.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\wwwroot\\user\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\user\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BTL_ASP_Web_Sport.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BTL_ASP_Web_Sport.props",
+      "PackagePath": "build\\BTL_ASP_Web_Sport.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BTL_ASP_Web_Sport.props",
+      "PackagePath": "buildMultiTargeting\\BTL_ASP_Web_Sport.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BTL_ASP_Web_Sport.props",
+      "PackagePath": "buildTransitive\\BTL_ASP_Web_Sport.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,99 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="app-main__inner">
+
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="fa-solid fa-earth-americas"></i>
+                </div>
+                <div>
+                    Blog
+                    <div class="page-title-subheading">
+                        View, create, update, delete and manage.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-card mb-3 card">
+                <div class="card-body">
+                    <form method="post" action="Create" enctype="multipart/form-data">
+                       @*  <div class="position-relative row form-group">
+                            <label for="image"
+                                   class="col-md-3 text-md-right col-form-label">Avatar</label>
+                            <div class="col-md-9 col-xl-8">
+                                <img style ="height: 200px;width: 200px; cursor: pointer;object-fit:contain;"
+                                     class="thumbnail rounded-circle" data-toggle="tooltip"
+                                     title="Click to change the image" data-placement="bottom"
+                                     src="~/assets/images/add-image-icon.jpg" alt="Avatar">
+                                <img src="" alt="Avatar">
+                                <input name="fileUpload" type="file" onchange="changeImg(this)" multiple
+                                       class="image form-control-file mt-3">
+                                <input name="image" type="file" onchange="changeImg(this)"
+                                       class="image form-control-file" style="display: none;" value="">
+                                <input type="hidden" name="image_old" value="">
+                                <small class="form-text text-muted">
+                                    Click on the image to change (required)
+                                </small>
+                            </div>
+                        </div> *@
+                        <div class="form-group position-relative row">
+                            <label for="image"
+                                   class="col-md-3 text-md-right col-form-label">Image</label>
+                            <div class="col-md-9 col-xl-8">
+                                <img style="height: 200px;width: 200px; cursor: pointer;object-fit:contain;"
+                                     class="thumbnail" data-toggle="tooltip"
+                                     title="Click to change the image" data-placement="bottom"
+                                <img src="" alt="Avatar">
+                                <input name="fileUpload" type="file" onchange="changeImg(this)" multiple
+                                       class="image form-control-file mt-3">
+                                </br>
+                            </div>
+                        </div>
+                        <div class="position-relative row form-group">
+                            <label for="name" class="col-md-3 text-md-right col-form-label">Name</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="BlogName" id="BlogName" placeholder="BlogName" type="text"
+                                       class="form-control" value="">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="name" class="col-md-3 text-md-right col-form-label">Description</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="BlogDescription" id="name" placeholder="BlogDescription" type="text"
+                                       class="form-control" value="">
+                            </div>
+                        </div>
+                        <div class="position-relative row form-group mb-1">
+                            <div class="col-md-9 col-xl-8 offset-md-2">
+                                <a href="#" class="border-0 btn btn-outline-danger mr-1">
+                                    <span class="btn-icon-wrapper pr-1 opacity-8">
+                                        <i class="fa fa-times fa-w-20"></i>
+                                    </span>
+                                    <span>Cancel</span>
+                                </a>
+
+                                <button type="submit"
+                                        class="btn-shadow btn-hover-shine btn btn-primary">
+                                    <span class="btn-icon-wrapper pr-2 opacity-8">
+                                        <i class="fa fa-download fa-w-20"></i>
+                                    </span>
+                                    <span>Save</span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

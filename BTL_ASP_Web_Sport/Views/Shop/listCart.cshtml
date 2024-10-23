@@ -1,0 +1,95 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model BTL_ASP_Web_Sport.Data.Cart
+
+<section class="breadcrumb-option">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="breadcrumb__text">
+                    <h4>Shopping Cart</h4>
+                    <div class="breadcrumb__links">
+                        <a href="./index.html">Home</a>
+                        <a href="./shop.html">Shop</a>
+                        <span>Shopping Cart</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Breadcrumb Section End -->
+<!-- Shopping Cart Section Begin -->
+<section class="shopping-cart spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="shopping__cart__table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Product</th>
+                                <th>Quantity</th>
+                                <th></th>
+                                <th>Total</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var c in ViewBag.Cart)
+                            {
+                                <tr>
+                                    <td class="product__cart__item">
+                                        <div class="product__cart__item__pic">
+                                            <img src="@(Url.Content("~/Uploads/products/" + c.Product.ProImage))" alt="anh" width="90px">
+                                        </div>
+                                        <div class="product__cart__item__text">
+                                            <h6>@c.Product.ProName</h6>
+                                            <h5>$@c.Product.ProPrice</h5>
+                                        </div>
+                                    </td>
+                                    <td class="quantity__item">
+                                        <div class="quantity">
+                                            <div class="pro-qty-2">
+                                                @c.Quantity
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td class="cart__price"></td>
+                                    <td class="cart__price">$ @c.TotalAmount</td>
+                                    <td class="cart__close">
+                                        <form action="" method="post">
+                                            <button asp-controller="Shop" asp-action="DeleteCart" asp-route-id="@c.CartId" class="nav-link btn" type="submit"
+                                                    onclick="return confirm('Do you really want to delete this item?')">
+                                                <span class="btn-icon-wrapper pr-2 opacity-8">
+                                                    <i class="fa fa-trash fa-w-20"></i>
+                                                </span>
+                                                <span>Delete</span>
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="continue__btn">
+                            <a asp-controller="Shop" asp-action="Index" style="text-decoration:none">Continue Shopping</a>
+                        </div>
+                    </div>
+                    @* <div class="col-lg-6 col-md-6 col-sm-6">
+                        <div class="continue__btn update__btn">
+                            <a href="#"><i class="fa fa-spinner"></i> Update cart</a>
+                        </div>
+                    </div> *@
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>

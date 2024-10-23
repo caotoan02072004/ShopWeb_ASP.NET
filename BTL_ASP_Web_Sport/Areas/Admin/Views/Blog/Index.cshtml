@@ -1,0 +1,137 @@
+﻿@using X.PagedList.Mvc;
+@using X.PagedList; ﻿
+@model X.PagedList.IPagedList<BTL_ASP_Web_Sport.Data.Blog>
+@using X.PagedList.Mvc.Core;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    int i = 1;
+    var name = ViewBag.names;
+}
+<div class="app-main__inner">
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="fa-solid fa-earth-americas"></i>
+                </div>
+                <div>
+                    Blog
+                    <div class="page-title-subheading">
+                        View, create, update, delete and manage.
+                    </div>
+                </div>
+            </div>
+
+            <div class="page-title-actions">
+                <a asp-controller="Blog" asp-action="Themmoi" class="btn-shadow btn-hover-shine mr-3 btn btn-primary">
+                    <span class="btn-icon-wrapper pr-2 opacity-7">
+                        <i class="fa fa-plus fa-w-20"></i>
+                    </span>
+                    Create
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-card mb-3 card">
+
+                <div class="card-header">
+
+                    <form>
+                        <div class="input-group">
+                            <input type="search" name="name" value="@name" id="search"
+                                   placeholder="Search everything" class="form-control">
+                            <span class="input-group-append">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fa fa-search"></i>&nbsp;
+                                    Search
+                                </button>
+                            </span>
+                        </div>
+                    </form>
+                    <div class="btn-actions-pane-right">
+                        <div role="group" class="btn-group-sm btn-group">
+                            <a class="btn btn-primary" asp-action="Index">Reset</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="table-responsive">
+                    <table class="align-middle mb-0 table table-borderless table-striped table-hover">
+                        <thead>
+                            <tr>
+                                <th class="text-center">STT</th>
+                                <th>Name</th>
+                                <th>Images</th>
+                                <th class="text-center">Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var b in Model)
+                            {
+                                <tr>
+                                    <td class="text-center text-muted">@i</td>
+                                    <td>
+                                        <div class="widget-content p-0">
+                                            <div class="widget-content-wrapper">
+                                                <div class="widget-content-left flex2">
+                                                    <div class="widget-heading">@b.BlogName</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </td>
+
+                                    <td>
+                                        <img style="height: 60px; width: 70px"
+                                             data-toggle="tooltip" title="Image"
+                                             data-placement="bottom"
+                                             src="@(b.BlogImage != null
+                                                ? (b.BlogImage.StartsWith("http")
+                                                    ? b.BlogImage
+                                                    : Url.Content("~/Uploads/blogs/" + b.BlogImage))
+                                                : Url.Content("~/images/defaultUser.png"))" alt="anh">
+                                    </td>
+
+                                    <td class="text-center">
+                                        <a asp-controller="Blog" asp-action="Sua" asp-route-id="@b.BlogId" data-toggle="tooltip" title="Edit"
+                                           data-placement="bottom" class="btn btn-outline-warning border-0 btn-sm">
+                                            <span class="btn-icon-wrapper opacity-8">
+                                                <i class="fa fa-edit fa-w-20"></i>
+                                            </span>
+                                        </a>
+                                        <form class="d-inline" action="" method="post">
+                                            <button asp-action="Xoa" asp-route-id="@b.BlogId" class="btn btn-hover-shine btn-outline-danger border-0 btn-sm"
+                                                    type="submit" data-toggle="tooltip" title="Delete"
+                                                    data-placement="bottom"
+                                                    onclick="return confirm('Do you really want to delete this item?')">
+                                                <span class="btn-icon-wrapper opacity-8">
+                                                    <i class="fa fa-trash fa-w-20"></i>
+                                                </span>
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                                i++;
+                            }
+                        </tbody>
+                    </table>
+                    <nav aria-label="Page navigation example ml-3">
+                        <ul class="pagination ml-3">
+                            @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }),
+                                     new PagedListRenderOptions
+                            {
+                                LiElementClasses = new[] { "page-item" },
+                                PageClasses = new[] { "page-link" },
+                                UlElementClasses = new[] { "pagination" }
+                            })
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,93 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Sua";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+@model BTL_ASP_Web_Sport.Data.Blog
+<div class="app-main__inner">
+
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="fa-solid fa-earth-americas"></i>
+                </div>
+                <div>
+                    Blog
+                    <div class="page-title-subheading">
+                        View, create, update, delete and manage.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-card mb-3 card">
+                <div class="card-body">
+                    <form method="post" asp-area="Admin" asp-controller="Blog" asp-action="Sua" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" name="oldImage" value="@Model.BlogImage" />
+                        <input type="hidden" asp-for="BlogId" />
+
+                        <div class="form-group position-relative row">
+                            <label for="image"
+                                   class="col-md-3 text-md-right col-form-label">Image</label>
+                            <div class="col-md-9 col-xl-8">
+                                <img style="height: 200px;width: 200px; cursor: pointer;object-fit:contain;"
+                                     class="thumbnail" data-toggle="tooltip"
+                                     title="Click to change the image" data-placement="bottom"
+                                <img src="@(string.IsNullOrEmpty(Model.BlogImage)
+                                    ? Url.Content("~/images/add-image-icon.jpg")
+                                    : Url.Content("~/Uploads/blogs/" + Model.BlogImage))"
+                                     alt="Avatar" class="card-img" style="width: 100px;" />
+                                <input name="fileUpload" type="file" onchange="changeImg(this)" multiple
+                                       style="display: none;"
+                                       class="image form-control-file mt-3">
+                                </br>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="name" class="col-md-3 text-md-right col-form-label">Name</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input name="BlogName" id="BlogName" placeholder="Name" type="text"
+                                       class="form-control" asp-for="BlogName">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="name" class="col-md-3 text-md-right col-form-label">Description</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input name="BlogDescription" id="BlogDescription" placeholder="BlogDescription" type="text"
+                                       class="form-control" asp-for="BlogDescription">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group mb-1">
+                            <div class="col-md-9 col-xl-8 offset-md-2">
+                                <a href="#" class="border-0 btn btn-outline-danger mr-1">
+                                    <span class="btn-icon-wrapper pr-1 opacity-8">
+                                        <i class="fa fa-times fa-w-20"></i>
+                                    </span>
+                                    <span>Cancel</span>
+                                </a>
+
+                                <button type="submit"
+                                        class="btn-shadow btn-hover-shine btn btn-primary">
+                                    <span class="btn-icon-wrapper pr-2 opacity-8">
+                                        <i class="fa fa-download fa-w-20"></i>
+                                    </span>
+                                    <span>Save</span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

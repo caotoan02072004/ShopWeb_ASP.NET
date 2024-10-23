@@ -1,0 +1,181 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model BTL_ASP_Web_Sport.Data.Account
+
+<div class="app-main__inner">
+
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="fa-solid fa-earth-americas"></i>
+                </div>
+                <div>
+                    User
+                    <div class="page-title-subheading">
+                        View, create, update, delete and manage.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-card mb-3 card">
+                <div class="card-body">
+                    <form method="post" asp-area="Admin" asp-controller="Account" asp-action="Sua" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" name="oldImage" value="@Model.UserAvatar" />
+                        <input type="hidden" asp-for="UserId" />
+                        <div class="position-relative row form-group">
+                            <label for="image"
+                                   class="col-md-3 text-md-right col-form-label">Avatar</label>
+                            <div class="col-md-9 col-xl-8">
+                                <img style="height: 200px; cursor: pointer;"
+                                     class="thumbnail rounded-circle" data-toggle="tooltip"
+                                     title="Click to change the image" data-placement="bottom"
+                                     src="@(string.IsNullOrEmpty(Model.UserAvatar)
+                                    ? Url.Content("~/images/add-image-icon.jpg")
+                                    : Url.Content("~/Uploads/accounts/" + Model.UserAvatar))"
+                                     alt="Avatar">
+                                <input name="fileUpload" type="file" onchange="changeImg(this)" multiple
+                                       class="image form-control-file mt-3" style="display: none">
+                                <small class="form-text text-muted">
+                                    Click on the image to change (required)
+                                </small>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserName" class="col-md-3 text-md-right col-form-label">Name</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input name="UserName" placeholder="Name" type="text"
+                                       class="form-control" asp-for="UserName">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserFullName" class="col-md-3 text-md-right col-form-label">Full Name</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="UserFullName" id="UserFullName" placeholder="FullName" type="text"
+                                       class="form-control" asp-for="UserFullName">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserEmail"
+                                   class="col-md-3 text-md-right col-form-label">Email</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="UserEmail" id="UserEmail" placeholder="Email" type="email"
+                                       class="form-control" asp-for="UserEmail">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserPassword"
+                                   class="col-md-3 text-md-right col-form-label">Password</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input name="UserPassword" id="UserPassword" placeholder="Password" type="password"
+                                       class="form-control" asp-for="UserPassword">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserAddress" class="col-md-3 text-md-right col-form-label">
+                                Address
+                            </label>
+                            <div class="col-md-9 col-xl-8">
+                                <input name="UserAddress" id="UserAddress"
+                                       placeholder="Address" type="text" class="form-control"
+                                       asp-for="UserAddress">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserPhone"
+                                   class="col-md-3 text-md-right col-form-label">Phone</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="UserPhone" id="UserPhone" placeholder="Phone" type="tel"
+                                       class="form-control" asp-for="UserPhone">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserActive"
+                                   class="col-md-3 text-md-right col-form-label">Active</label>
+                            <div class="col-md-9 col-xl-8">
+                                <div class="row">
+                                    <div class="position-relative form-check mx-3 pt-sm-2">
+                                        <input name="UserActive" id="UserActive" type="radio" value="1" class="form-check-input" asp-for="UserActive" checked>
+                                        <label for="UserActive" class="form-check-label">Mở</label>
+                                    </div>
+                                    <div class="position-relative form-check pt-sm-2">
+                                        <input name="UserActive" id="UserActive" type="radio" value="0" class="form-check-input" asp-for="UserActive">
+                                        <label for="UserActive" class="form-check-label">Đóng</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserRole"
+                                   class="col-md-3 text-md-right col-form-label">Level</label>
+                            <div class="col-md-9 col-xl-8">
+                                <div class="row">
+                                    <div class="position-relative form-check mx-3 pt-sm-2">
+                                        <input name="UserRole" id="UserRole" type="radio" value="1" class="form-check-input" checked asp-for="UserRole">
+                                        <label for="UserRole" class="form-check-label" checked>Admin</label>
+                                    </div>
+                                    <div class="position-relative form-check pt-sm-2">
+                                        <input name="UserRole" id="UserRole" type="radio" value="0" class="form-check-input" asp-for="UserRole">
+                                        <label for="UserRole" class="form-check-label">User</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="UserGender"
+                                   class="col-md-3 text-md-right col-form-label">Gender</label>
+                            <div class="col-md-9 col-xl-8">
+                                <div class="row">
+                                    <div class="position-relative form-check mx-3 pt-sm-2">
+                                        <input name="UserGender" id="UserGender" type="radio" value="1" class="form-check-input" checked asp-for="UserGender">
+                                        <label for="UserGender" class="form-check-label">Nam</label>
+                                    </div>
+                                    <div class="position-relative form-check pt-sm-2">
+                                        <input name="UserGender" id="UserGender" type="radio" value="0" class="form-check-input" asp-for="UserGender">
+                                        <label for="UserGender" class="form-check-label">Nữ</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group mb-1">
+                            <div class="col-md-9 col-xl-8 offset-md-2">
+                                <a asp-controller="Account" asp-action="Index" class="border-0 btn btn-outline-danger mr-1">
+                                    <span class="btn-icon-wrapper pr-1 opacity-8">
+                                        <i class="fa fa-times fa-w-20"></i>
+                                    </span>
+                                    <span>Cancel</span>
+                                </a>
+
+                                <button type="submit"
+                                        class="btn-shadow btn-hover-shine btn btn-primary">
+                                    <span class="btn-icon-wrapper pr-2 opacity-8">
+                                        <i class="fa fa-download fa-w-20"></i>
+                                    </span>
+                                    <span>Save</span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

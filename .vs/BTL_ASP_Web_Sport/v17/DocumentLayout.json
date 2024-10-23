@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8AD1FF-A945-4526-B8CB-FF2012C50D5E}|BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport.csproj|d:\\learningcode\\asp.net\\btl_asp_web_sport\\btl_asp_web_sport\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8AD1FF-A945-4526-B8CB-FF2012C50D5E}|BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport.csproj|solutionrelative:btl_asp_web_sport\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BTL_ASP_Web_Sport\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\LearningCode\\ASP.NET\\BTL_ASP_Web_Sport\\BTL_ASP_Web_Sport\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BTL_ASP_Web_Sport\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:08:12.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

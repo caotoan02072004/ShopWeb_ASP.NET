@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BTL_ASP_Web_Sport.props" />
+</Project>

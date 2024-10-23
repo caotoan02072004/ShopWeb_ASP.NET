@@ -1,0 +1,139 @@
+﻿
+@{
+    ViewData["Title"] = "Sua";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+@model BTL_ASP_Web_Sport.Data.Product
+<div class="app-main__inner">
+    <div class="app-page-title">
+        <div class="page-title-wrapper">
+            <div class="page-title-heading">
+                <div class="page-title-icon">
+                    <i class="fa-solid fa-earth-americas"></i>
+                </div>
+                <div>
+                    Product
+                    <div class="page-title-subheading">
+                        View, create, update, delete and manage.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-card mb-3 card">
+                <div class="card-body">
+                    <form method="post" asp-area="Admin" asp-controller="Product" asp-action="Sua" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <input type="hidden" name="oldImage" value="@Model.ProImage" />
+                        <input type="hidden" asp-for="ProId" />
+                        
+                        
+                        <div class="form-group position-relative row">
+                            <label for="image"
+                                   class="col-md-3 text-md-right col-form-label">Image</label>
+                            <div class="col-md-9 col-xl-8">
+                                <img style="height: 200px;width: 200px; cursor: pointer;object-fit:contain;"
+                                     class="thumbnail" data-toggle="tooltip"
+                                     title="Click to change the image" data-placement="bottom"
+                                <img src="@(string.IsNullOrEmpty(Model.ProImage)
+                                    ? Url.Content("~/images/add-image-icon.jpg")
+                                    : Url.Content("~/Uploads/products/" + Model.ProImage))"
+                                     alt="Avatar" class="card-img" style="width: 100px;" />
+                                <input name="fileUpload" type="file" onchange="changeImg(this)" multiple
+                                       style="display: none;"
+                                       class="image form-control-file mt-3">
+                                </br>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="name" class="col-md-3 text-md-right col-form-label">Name</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input name="ProName" id="ProName" placeholder="ProName" type="text"
+                                       class="form-control" asp-for="ProName">
+                            </div>
+                            <span asp-validation-for="ProName" class="text-danger"></span>
+                        </div>
+                        <div class="position-relative row form-group">
+                            <label for="content"
+                                   class="col-md-3 text-md-right col-form-label">Price</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="ProPrice" id="ProPrice"
+                                       placeholder="ProPrice" type="text" class="form-control" asp-for="ProPrice">
+                            </div>
+                        </div>
+                        <div class="position-relative row form-group">
+                            <label for="price"
+                                   class="col-md-3 text-md-right col-form-label">Sale Price</label>
+                            <div class="col-md-9 col-xl-8">
+                                <input required name="ProSalePrice" id="ProSalePrice"
+                                       placeholder="ProSalePrice" type="text" class="form-control" asp-for="ProSalePrice">
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="ProCategoryId"
+                                   class="col-md-3 text-md-right col-form-label">Category</label>
+                            <div class="col-md-9 col-xl-8">
+                                <select asp-for="ProCategoryId" class="form-control" asp-items="ViewBag.ProCategoryId">
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="position-relative row form-group">
+                            <label for="featured"
+                                   class="col-md-3 text-md-right col-form-label">Status</label>
+                            <div class="col-md-9 col-xl-8">
+                                <div class="row">
+                                    <div class="position-relative form-check mx-3 pt-sm-2">
+                                        <input name="ProStatus" id="ProStatus" type="radio" value="1" class="form-check-input" asp-for="ProStatus">
+                                        <label for="ProStatus" class="form-check-label">Hiện</label>
+                                    </div>
+                                    <div class="position-relative form-check pt-sm-2">
+                                        <input name="ProStatus" id="ProStatus" type="radio" value="0" class="form-check-input" asp-for="ProStatus">
+                                        <label for="ProStatus" class="form-check-label">Ẩn</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="position-relative row form-group">
+                            <label for="price"
+                                   class="col-md-3 text-md-right col-form-label">Description</label>
+                            <div class="col-md-9 col-xl-8">
+                                <textarea asp-for="ProDescription" class="form-control" placeholder="Nhập mô tả sản phẩm..." rows="4"></textarea>
+                            </div>
+                        </div>
+                        <div class="position-relative row form-group mb-1">
+                            <div class="col-md-9 col-xl-8 offset-md-2">
+                                <a href="#" class="border-0 btn btn-outline-danger mr-1">
+                                    <span class="btn-icon-wrapper pr-1 opacity-8">
+                                        <i class="fa fa-times fa-w-20"></i>
+                                    </span>
+                                    <span>Cancel</span>
+                                </a>
+                                <button type="submit"
+                                        class="btn-shadow btn-hover-shine btn btn-primary">
+                                    <span class="btn-icon-wrapper pr-2 opacity-8">
+                                        <i class="fa fa-download fa-w-20"></i>
+                                    </span>
+                                    <span>Save</span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        CKEDITOR.replace('@Html.IdFor(m => m.ProDescription)');
+    </script>
+}
